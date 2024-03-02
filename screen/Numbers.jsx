@@ -1,5 +1,5 @@
 import React from "react";
-import { View, StyleSheet, Linking, Dimensions  } from "react-native";
+import { View, StyleSheet, Linking, Dimensions, Platform  } from "react-native";
 import AppButton from "../components/AppButton";
 
 const Home = ({navigation}) => {
